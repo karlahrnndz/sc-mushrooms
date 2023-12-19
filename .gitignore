@@ -1,3 +1,7 @@
+# User-defines
+/code/uorder_filepath.txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
