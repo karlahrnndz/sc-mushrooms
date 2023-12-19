@@ -1,6 +1,7 @@
 # User-defines
 /code/uorder_filepath.txt
 .DS_Store
+/code/.ipynb_checkpoints
 
 
 # Byte-compiled / optimized / DLL files
